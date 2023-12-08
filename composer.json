@@ -10,7 +10,7 @@
 		"source": "https://github.com/bcit-ci/CodeIgniter"
 	},
 	"require": {
-		"php": ">=8.0.*"
+		"php": "8.2.*"
 	},
 	"require-dev": {
 		"mikey179/vfsstream": "1.1.*"
